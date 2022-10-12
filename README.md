@@ -2,6 +2,7 @@
 Каталог предметов из Dungeon Master Guide, Dungeons & Dragons 5
 
 
+https://palikhov.github.io/DrT_Items/
 
 # ЛИЦЕНЗИЯ
 
@@ -9,3 +10,4 @@
 
 Полный текст лицензии: https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
 
+[Киборги и Чародеи](https://cyborgsandmages.com/) - международное сообщество игроков и мастеров НРИ
